@@ -1,0 +1,23 @@
+{
+  "name": "ZapiWiFiSystem",
+  "version": "1.1.5",
+  "summary": "Zyxel Wi-Fi System data model wrapper for iOS.",
+  "description": "ZapiWiFiSystem is a Zyxel Wi-Fi System data model wrapper SDK for iOS.",
+  "homepage": "https://gitlab.com/Zyxel/iOSSDK/ZapiWiFiSystem",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Egg": "egg.hsu@zyxel.com.tw"
+  },
+  "source": {
+    "git": "https://gitlab.com/Zyxel/iOSSDK/ZapiWiFiSystem.git",
+    "tag": "1.1.5"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZapiWiFiSystem/Classes/**/*",
+  "vendored_libraries": "ZapiWiFiSystem/Library/lib/libZapiDataModel.a"
+}

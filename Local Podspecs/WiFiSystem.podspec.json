@@ -1,0 +1,19 @@
+{
+  "name": "WiFiSystem",
+  "version": "0.0.3",
+  "summary": "A short description of WifiSystem.",
+  "description": "WiFi System framework for iOS",
+  "homepage": "https://gitlab.com/HOHOHAHE/WiFiSystemFramework",
+  "license": "MIT",
+  "authors": {
+    "Kevin": "kevin.wu@zyxel.com.tw"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "git@gitlab.com:HOHOHAHE/WiFiSystemFramework.git",
+    "tag": "0.0.3"
+  },
+  "vendored_frameworks": "frameworks/wifi_system.framework"
+}
